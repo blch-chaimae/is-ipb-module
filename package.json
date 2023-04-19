@@ -1,0 +1,22 @@
+{
+  "name": "is-ipb-module",
+  "version": "1.0.0",
+  "description": "This is a new IPB module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blch-chaimae/is-ipb-module.git"
+  },
+  "keywords": [
+    "ipb"
+  ],
+  "author": "Chaimae",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blch-chaimae/is-ipb-module/issues"
+  },
+  "homepage": "https://github.com/blch-chaimae/is-ipb-module#readme"
+}
